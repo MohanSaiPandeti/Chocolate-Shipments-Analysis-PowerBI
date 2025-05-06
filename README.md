@@ -1,37 +1,74 @@
-# Chocolate Shipments Analysis PowerBI
+# 🍫 Chocolate Shipments Analysis Dashboard
 
-## Description
-This repository contains a Power BI report based on chocolate shipment data, demonstrating key Power BI skills such as data cleaning, data modeling, DAX functions, and visualization. The report provides insights into the shipment process, including sales trends, delivery performance, and key metrics.
+## 📝 Description / Purpose  
+A visually insightful and interactive Power BI dashboard built to analyze chocolate shipment data—tracking delivery performance, sales trends, and shipment metrics over time. This dashboard is intended for business analysts, logistics teams, and data professionals seeking to understand key patterns in chocolate delivery operations.
 
-## Key Features:
-- **Data Cleaning & Column Creation**: Cleaned and transformed the shipment dataset using Power Query.
-- **Data Modeling**: Built a star schema model to represent the data.
-- **DAX Functions**: Created measures for calculating YoY performance and shipment metrics.
-- **Time Intelligence**: Implemented calendar tables for time-based analysis.
-- **Report Interactions**: Utilized slicers, filters, and conditional formatting.
-- **Visualizations**: Line charts, Donut charts, Treemaps, and KPI cards to display shipment performance.
-- **Customization**: Added custom background images, tooltips, and other report enhancements.
+## ⚙️ Tech Stack  
+The dashboard leverages the following technologies and tools:  
+- 📊 **Power BI Desktop** – For report building and visual storytelling  
+- 🔄 **Power Query** – To clean, shape, and transform shipment data  
+- 🧠 **DAX (Data Analysis Expressions)** – For advanced calculations and KPIs  
+- 🧱 **Data Modeling** – Star schema built to improve performance and usability  
+- 📁 **File Format** – `.pbix` for dashboard development
 
-## Project Includes:
-- Power BI Report (`.pbix` file)
-- Sample Dataset (Chocolate Shipments)
-- Icons, background images, and a README for setup
+## 📂 Data Source  
+**Source**: Sample Chocolate Shipments Dataset (included in the repo)  
+The dataset includes variables such as shipment ID, product category, delivery date, region, delivery status, and quantity delivered.
 
-## Getting Started:
-1. **Clone this repository** to your local machine using Git:
-   ```bash
-   git clone https://github.com/yourusername/Chocolate-Shipments-Analysis-PowerBI.git
+## 🌟 Features / Highlights
 
-2. Open the `.pbix` file in Power BI Desktop.
-3. Explore the report and dataset for insights.
+### • Business Problem  
+Chocolate manufacturers and suppliers need detailed insights into delivery delays, seasonal sales trends, and overall shipment efficiency.
 
-## How to Contribute:
-Feel free to fork this repository, make improvements, or suggest any changes. Contributions are always welcome!
+### • Goal of the Dashboard  
+To create a powerful yet intuitive dashboard that uncovers patterns in shipment delivery and provides actionable insights for improving supply chain logistics.
 
-## Acknowledgements:
-Special thanks to **Chandooo** for your guidance throughout this learning journey.
+### • Walkthrough of Key Visuals  
+- **KPI Cards** – Showing total shipments, on-time delivery rate, YoY growth  
+- **Line Chart** – Monthly shipment trends  
+- **Treemap** – Distribution of product categories  
+- **Donut Chart** – Shipment status overview (Delivered vs. Delayed)  
+- **Filters/Slicers** – By region, delivery status, and product category  
+- **Custom Tooltips** – To enhance the interactivity of visuals  
 
-## Connect with Me:
-- **LinkedIn**: [Mohan Sai](https://www.linkedin.com/in/mohansaipandeti)
+### • Business Impact & Insights  
+- Identify bottlenecks in shipping performance  
+- Spot trends in demand based on product category and time  
+- Improve planning for logistics and inventory teams  
 
-For any questions or feedback, please feel free to contact me at [pandetimohansai@gmail.com].
+## 📸 Dashboard Preview  
+![Chocolate Shipments Dashboard Preview]([dashboard-preview.png](https://github.com/MohanSaiPandeti/Chocolate-Shipments-Analysis-PowerBI/blob/main/Dashboard.png))  
+*Alt text: A sample dashboard preview of chocolate shipments KPIs and visuals.*  
+
+
+## 📁 Project Includes  
+- `Chocolate Shipment Project.pbix`  
+- Sample Dataset  
+- Icons and background images  
+- README documentation  
+
+##  Getting Started  
+
+1. **Clone the Repository**  
+```bash  
+git clone https://github.com/MohanSaiPandeti/Chocolate-Shipments-Analysis-PowerBI
+```
+##  Open in Power BI Desktop
+
+- Launch the `.pbix` file  
+- Explore visuals, filters, and KPIs
+
+## 🤝 How to Contribute
+
+Feel free to fork the repository, improve visuals, or suggest ideas! Contributions are welcome.
+
+##  Acknowledgements
+
+Special thanks to **Chandooo** for guiding my journey in dashboard development.
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohan%20Sai-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohansaipandeti)
+[![Email](https://img.shields.io/badge/Email-pandetimohansai%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:pandetimohansai@gmail.com)
+
+
