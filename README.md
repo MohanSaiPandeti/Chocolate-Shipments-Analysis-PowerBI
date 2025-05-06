@@ -35,14 +35,11 @@ To create a powerful yet intuitive dashboard that uncovers patterns in shipment 
 - Identify bottlenecks in shipping performance  
 - Spot trends in demand based on product category and time  
 - Improve planning for logistics and inventory teams  
-
-## 📸 Dashboard Preview  
+  
 ## 📸 Dashboard Preview
 
 [![Chocolate Shipments Dashboard Preview](https://github.com/MohanSaiPandeti/Chocolate-Shipments-Analysis-PowerBI/raw/main/Dashboard.png)  
-*Alt text: A sample dashboard preview of chocolate shipments KPIs and visuals.*
-
-*Alt text: A sample dashboard preview of chocolate shipments KPIs and visuals.*  
+*Alt text: A sample dashboard preview of chocolate shipments KPIs and visuals.* 
 
 
 ## 📁 Project Includes  
