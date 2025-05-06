@@ -1,6 +1,6 @@
 # 🍫 Chocolate Shipments Analysis Dashboard
 
-## 📝 Description / Purpose  
+##  Description / Purpose  
 A visually insightful and interactive Power BI dashboard built to analyze chocolate shipment data—tracking delivery performance, sales trends, and shipment metrics over time. This dashboard is intended for business analysts, logistics teams, and data professionals seeking to understand key patterns in chocolate delivery operations.
 
 ## ⚙️ Tech Stack  
@@ -37,7 +37,11 @@ To create a powerful yet intuitive dashboard that uncovers patterns in shipment 
 - Improve planning for logistics and inventory teams  
 
 ## 📸 Dashboard Preview  
-![Chocolate Shipments Dashboard Preview]([dashboard-preview.png](https://github.com/MohanSaiPandeti/Chocolate-Shipments-Analysis-PowerBI/blob/main/Dashboard.png))  
+## 📸 Dashboard Preview
+
+[![Chocolate Shipments Dashboard Preview](https://github.com/MohanSaiPandeti/Chocolate-Shipments-Analysis-PowerBI/raw/main/Dashboard.png)  
+*Alt text: A sample dashboard preview of chocolate shipments KPIs and visuals.*
+
 *Alt text: A sample dashboard preview of chocolate shipments KPIs and visuals.*  
 
 
